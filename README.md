@@ -51,8 +51,6 @@ Sou desenvolvedor web especializado em **PHP** e professor de Tecnologia da Info
 | **Ksys Sistema de Gestão** | Programador Júnior PHP — desde julho de 2020 |
 | **Bluware Informática** | Qualidade de Software, testes e desenvolvimento PHP — desde março de 2019 |
 
-*Datas conforme currículo fornecido; períodos de encerramento não informados não foram presumidos.*
-
 ## 🎓 Formação acadêmica
 
 - **Pós-graduação em Tecnologia para Educação Profissional e Tecnológica** — IFSC.
