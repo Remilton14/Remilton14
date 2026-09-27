@@ -59,13 +59,11 @@ Sou desenvolvedor web especializado em **PHP** e professor de Tecnologia da Info
 
 ## 🚀 Projetos em destaque
 
-> Adicione aqui os repositórios públicos que melhor representam seu trabalho. Sugestões de apresentação:
-
-| Projeto | Descrição | Repositório |
-|---|---|---|
-| ERP RMS Enterprise | Sistema de gestão empresarial; descreva as funcionalidades disponíveis na versão pública. | [Ver repositório](https://github.com/Remilton14/ERP_RMS_Enterprise) |
-| API E-commerce | Projeto de API para comércio eletrônico. | [Ver repositório](https://github.com/Remilton14/API_ECOMMERCE) |
-| Loja 301 A | Projeto de desenvolvimento web. | [Ver repositório](https://github.com/Remilton14/loja_301_A) |
+#| Projeto | Descrição | Repositório |
+#|---|---|---|
+#| ERP RMS Enterprise | Sistema de gestão empresarial; descreva as funcionalidades disponíveis na versão pública. | [Ver repositório](https://github.com/Remilton14/ERP_RMS_Enterprise) |
+#| API E-commerce | Projeto de API para comércio eletrônico. | [Ver repositório](https://github.com/Remilton14/API_ECOMMERCE) |
+#| Loja 301 A | Projeto de desenvolvimento web. | [Ver repositório](https://github.com/Remilton14/loja_301_A) |
 
 ## 📊 GitHub
 
